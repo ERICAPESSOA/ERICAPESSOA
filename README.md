@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Fron-end Developer<br><br>📚I study system analysis and development and take an English course <br> <br>🎲 Fun fact: This is the space where I spend most of my time where, imagination and creativity become code.</p>
+<p align="left">✨ Fron-end Developer<br><br>📚I am a Systems Analysis and Development student. Currently improving my English and always looking for new challenges. Passionate about technology and cats, I am constantly learning and ready to explore new opportunities.</p>
 
 ###
 
