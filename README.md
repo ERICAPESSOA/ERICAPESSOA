@@ -46,7 +46,7 @@ Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente
 ###
 
 <div align="left">
-    <h3> Meu linkedin:
+    <h3> Meu linkedIn:
     <br>
     <br>
         
