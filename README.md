@@ -12,8 +12,8 @@
 <h3 align="left">About me:</h3>
 
 <p> Tudo começou com "hello,world". Tenho aprendido e praticado HTML, CSS, JavaScript, React e tenho interesse em inteligência artificial.<br>
-- 🎨 Gosto de entender como as interfaces são construídas e de recriar ideias do meu jeito, com atenção aos detalhes e vontade de aprender sempre mais. <br>
-- 🐱 Gatos fazem parte do processo: são ótimos em subir no teclado enquanto eu codifico.
+Gosto de entender como as interfaces são construídas e de recriar ideias do meu jeito, com atenção aos detalhes e vontade de aprender sempre mais. <br>
+ Gatos fazem parte do processo: são ótimos em subir no teclado enquanto eu codifico 🐱.
  </p>
 ###
 
