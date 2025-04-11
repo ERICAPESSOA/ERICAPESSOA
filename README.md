@@ -1,7 +1,9 @@
 <h1 align="left">Olá, seja bem vindo ao meu Github!😊</h1>
 
-<h2>✨ Me chama Érica, sou estudante de Análise e Desenvolvimento de Sistemas| Futura Desenvolvedora de Sistemas <br>  
-    🎯 Curiosa, criativa e apaixonada por transformar ideias em experiências interativas.</h2> <hr>
+<h4>✨ Me chama Érica, sou estudante de Análise e Desenvolvimento de Sistemas | Futura Desenvolvedora de Sistemas 
+    <br>  
+    🎯 Curiosa, criativa e apaixonada por transformar ideias em experiências interativas.</h4>
+    <hr>
 
 ###
 
@@ -11,19 +13,14 @@
 
 <h3 align="left">About me:</h3>
 
-<p> Tudo começou com "hello,world". Tenho aprendido e praticado HTML, CSS, JavaScript, React e tenho interesse em inteligência artificial.<br>
-Gosto de entender como as interfaces são construídas e de recriar ideias do meu jeito, com atenção aos detalhes e vontade de aprender sempre mais. <br>
- Gatos fazem parte do processo: são ótimos em subir no teclado enquanto eu codifico 🐱.
+<p> Tudo começou com um simples "Hello, world!". Desde então, venho aprendendo e praticando HTML, CSS, JavaScript e React, além de explorar meu interesse por inteligência artificial.
+Tenho curiosidade por trás das interfaces: gosto de entender como são construídas e de recriar ideias do meu jeito — com atenção aos detalhes e sede constante por aprendizado. E quase sempre meu gato que é meu parceiro de código senta ao lado, julga meus bugs e às vezes até digita umas linhas por conta própria. 🐱💻
  </p>
-###
 
 <p align="left">✨ </p>
 
-###
-
 <h3 align="left">Languages ​​and tools:</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
