@@ -1,4 +1,7 @@
-<h1 align="left">Hey 😊</h1>
+<h1 align="left">Olá, mundo! Eu sou a Érica😊</h1>
+
+<h2>✨ Estudante de Análise e Desenvolvimento de Sistemas | Futura Desenvolvedora de Sistemas  
+🎯 Curiosa, criativa e apaixonada por transformar ideias em experiências interativas.</h2>
 
 ###
 
@@ -8,9 +11,10 @@
 
 <h3 align="left">About me:</h3>
 
+<p></p>
 ###
 
-<p align="left">✨ Fron-end Developer<br><br>📚Olá,mundo! foi onde tudo começou. I'm passionate about technology and I'm always looking for new learning. I'm currently improving my English, developing Front-end skills and sharing my love for cats while exploring the world of programming.</p>
+<p align="left">✨ </p>
 
 ###
 
