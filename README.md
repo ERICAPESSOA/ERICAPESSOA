@@ -47,6 +47,7 @@ Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente
 
 <div align="left">
     <h3> Meu linkedin:
+    <br>
         
   <a href="https://www.linkedin.com/in/erica-pessoa-de-sousa-a9b32a222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
