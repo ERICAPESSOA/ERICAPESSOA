@@ -37,14 +37,6 @@ Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ERICAPESSOA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
     <h3> Meu linkedIn:
     <br>
@@ -54,5 +46,14 @@ Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ERICAPESSOA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 
 ###
