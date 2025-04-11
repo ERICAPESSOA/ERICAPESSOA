@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Fron-end Developer<br><br>📚I'm passionate about technology and I'm always looking for new learning. I'm currently improving my English, developing Front-end skills and sharing my love for cats while exploring the world of programming.</p>
+<p align="left">✨ Fron-end Developer<br><br>📚Olá,mundo! foi onde tudo começou. I'm passionate about technology and I'm always looking for new learning. I'm currently improving my English, developing Front-end skills and sharing my love for cats while exploring the world of programming.</p>
 
 ###
 
