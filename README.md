@@ -13,8 +13,11 @@
 
 <h3 align="left">About me:</h3>
 
-<p> Tudo começou com um simples "Hello, world!". Desde então, venho aprendendo e praticando HTML, CSS, JavaScript e React, além de explorar meu interesse por inteligência artificial.
-Tenho curiosidade por trás das interfaces: gosto de entender como são construídas e de recriar ideias do meu jeito — com atenção aos detalhes e sede constante por aprendizado. E quase sempre meu gato que é meu parceiro de código senta ao lado, julga meus bugs e às vezes até digita umas linhas por conta própria. 🐱💻
+<p>Tudo começou com um simples `"Hello, world!"`. Desde então, venho estudando e praticando HTML, CSS, JavaScript e React, além de explorar meu interesse por inteligência artificial.
+<br>
+Gosto de entender como as interfaces são construídas e recriar ideias com o meu toque, sempre com atenção aos detalhes. Acredito na importância de crescer todos os dias — como desenvolvedora, como pessoa e na minha fé. Me esforço diariamente para aprender, evoluir e me aproximar de Deus. ,br>
+
+E sim, quase sempre tenho meu gato que insiste em revisar meu código, geralmente tentando subindo no teclado. 🐱💻
  </p>
 
 <p align="left">✨ </p>
