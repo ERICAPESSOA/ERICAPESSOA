@@ -16,7 +16,9 @@
 <p>Tudo começou com um simples `"Hello, world!"`. Desde então, venho estudando e praticando HTML, CSS, JavaScript e React, além de explorar meu interesse por inteligência artificial.
 <br>
     
-Gosto de entender como as interfaces são construídas e recriar ideias com o meu toque, sempre com atenção aos detalhes. Acredito na importância de crescer todos os dias como desenvolvedora, como pessoa e na minha fé. Me esforço diariamente para aprender, evoluir e me aproximar de Deus. Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente tentando subindo no teclado. 🐱💻
+Gosto de entender como as interfaces são construídas e recriar ideias com o meu toque, sempre com atenção aos detalhes. Acredito na importância de crescer todos os dias como desenvolvedora, como pessoa e na minha fé. Me esforço diariamente para aprender, evoluir e me aproximar de Deus. 
+
+Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente tentando subindo no teclado. 🐱💻
  </p>
 
 <p align="left"> </p>
