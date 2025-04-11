@@ -1,7 +1,7 @@
-<h1 align="left">Olá, mundo! Eu sou a Érica😊</h1>
+<h1 align="left">Olá, seja bem vindo ao meu Github!😊</h1>
 
-<h2>✨ Estudante de Análise e Desenvolvimento de Sistemas | Futura Desenvolvedora de Sistemas  
-🎯 Curiosa, criativa e apaixonada por transformar ideias em experiências interativas.</h2>
+<h2>✨ Me chama Érica, sou estudante de Análise e Desenvolvimento de Sistemas| Futura Desenvolvedora de Sistemas <br>  
+    🎯 Curiosa, criativa e apaixonada por transformar ideias em experiências interativas.</h2> <hr>
 
 ###
 
@@ -11,7 +11,10 @@
 
 <h3 align="left">About me:</h3>
 
-<p></p>
+<p> Tudo começou com "hello,world". Tenho aprendido e praticado HTML, CSS, JavaScript, React e tenho interesse em inteligência artificial.<br>
+- 🎨 Gosto de entender como as interfaces são construídas e de recriar ideias do meu jeito, com atenção aos detalhes e vontade de aprender sempre mais. <br>
+- 🐱 Gatos fazem parte do processo: são ótimos em subir no teclado enquanto eu codifico.
+ </p>
 ###
 
 <p align="left">✨ </p>
