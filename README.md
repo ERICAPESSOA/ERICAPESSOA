@@ -18,7 +18,7 @@
     
 Gosto de entender como as interfaces são construídas e recriar ideias com o meu toque, sempre com atenção aos detalhes. Acredito na importância de crescer todos os dias como desenvolvedora, como pessoa e na minha fé. Me esforço diariamente para aprender, evoluir e me aproximar de Deus. 
 
-Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente tentando subindo no teclado. 🐱💻
+Ah, e quase sempre tenho meu gato que insiste em revisar meu código, geralmente tentando subir no teclado. 🐱💻
  </p>
 
 <p align="left"> </p>
